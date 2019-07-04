@@ -1,7 +1,6 @@
 # ==========================================
 # Title:  A star planning Code
-# Author: Ashish Mehta
-# Date:   24 October 2018
+# Author: Yash Trikannad
 # ==========================================
 
 import numpy as np
