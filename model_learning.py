@@ -1,7 +1,6 @@
 # ==========================================
 # Title:  Model Learning Code
-# Author: Ashish Mehta
-# Date:   20 October 2018
+# Author: Yash Trikannad
 # ==========================================
 
 import tensorflow as tf
