@@ -1,7 +1,6 @@
 # ==========================================
 # Title:  Main function
-# Author: Ashish Mehta
-# Date:   25 October 2018
+# Author: Yash Trikannad
 # ==========================================
 
 from model_learning import Model
